@@ -1,8 +1,9 @@
 {
 	"name": "timi-uart",
 	"displayName": "Timi-UART",
-	"description": "",
-	"version": "0.1.2",
+	"description": "Send cmd and receive log basied on UART for Embedded system.",
+	"keywords": ["uart", "serial port", "com", "trace", "log", "embedded system"],
+	"version": "0.1.3",
 	"publisher": "timi",
 	"engines": {
 		"vscode": "^1.50.0"
@@ -11,14 +12,15 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"onCommand:extension.timi_uart"
 	],
 	"main": "./extension.js",
+	"icon": "images/timi-uart-logo.png",
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.helloWorld",
-				"title": "Hello World"
+				"command": "extension.timi_uart",
+				"title": "timi uart"
 			}
 		]
 	},
