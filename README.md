@@ -27,3 +27,6 @@ Also I will try to implement some features to display data with chart.
   * color special line
 * plot data
 * send data 
+
+## Issues
+Submit the [issues](https://github.com/huoyunjie/timi-uart-vscode/issues) if you find any bug or have any suggestion.
