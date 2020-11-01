@@ -1,5 +1,7 @@
 # Timi-UART for Visual Studio Code
 
+#### [Repository](https://github.com/huoyunjie/timi-uart-vscode)&nbsp;&nbsp;|&nbsp;&nbsp;[Issues](https://github.com/huoyunjie/timi-uart-vscode/issues)&nbsp;&nbsp;|&nbsp;&nbsp;[Documentation](https://github.com/huoyunjie/timi-uart-vscode)
+
 ## Overview
 UART/Serial Port is the hardware device which is used to send or receive data between two devices.
 
@@ -27,6 +29,3 @@ Also I will try to implement some features to display data with chart.
   * color special line
 * plot data
 * send data 
-
-## Issues
-Submit the [issues](https://github.com/huoyunjie/timi-uart-vscode/issues) if you find any bug or have any suggestion.
